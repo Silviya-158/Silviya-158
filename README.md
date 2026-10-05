@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.E Computer Science Engineering student at **Rathinam Technical Campus**, Coimbatore — **CGPA: 8.64**
+- 🎓 B.E Computer Science Engineering student at **Rathinam Technical Campus**, Coimbatore — **CGPA: 9.10**
 - 💻 Hands-on experience building full-stack apps with **Java, Spring Boot, React.js** and **PostgreSQL**
 - 🧩 Comfortable applying **OOP principles**, exception handling, and **Scrum/Kanban** concepts
 - 🌱 Currently exploring **AI Agents** and **Agentic AI** concepts
